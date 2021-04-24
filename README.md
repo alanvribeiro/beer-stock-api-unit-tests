@@ -1,4 +1,4 @@
-# Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoque de cervejas
+# Testes unitários em API REST de gerenciamento de estoque de cervejas
 
 Este projeto consiste na validação uma API REST de gerenciamento de estoque de cervejas através de testes unitários com JUnit, Mockito e Hamcrest, utilizando a prática TDD.
 
@@ -34,7 +34,7 @@ Para visualizar a execução do projeto
 http://localhost:8080/api/v1/beers
 ```
 
-Para acessar a documentação swagger do projeto
+Para acessar a documentação da API
 
 ```
 http://localhost:8080/swagger-ui.html
