@@ -1,6 +1,6 @@
-# Testes unitários em API REST de gerenciamento de estoque de cervejas
+# Testes unitários em API Rest de Gerenciamento de Estoque de Cervejas
 
-Este projeto consiste na validação uma API REST de gerenciamento de estoque de cervejas através de testes unitários com JUnit, Mockito e Hamcrest, utilizando a prática TDD.
+Este projeto consiste na validação de uma API Rest de Gerenciamento de Estoque de Cervejas através de testes unitários com JUnit, Mockito e Hamcrest, utilizando a prática TDD.
 
 ## Stack utilizada
 
